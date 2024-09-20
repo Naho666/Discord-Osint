@@ -5,7 +5,7 @@ created by naho
 
 This tool is designed to gather Open Source Intelligence (OSINT) from Discord user profiles and their connected accounts. It leverages the Discord API and various other platform APIs to collect and organize information.
 
-Features
+# Features
 
 Retrieve Discord user profile information
 Gather data from connected accounts (Steam, GitHub, YouTube, Spotify, Twitter, Twitch, PlayStation)
