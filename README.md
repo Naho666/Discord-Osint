@@ -14,7 +14,7 @@ Collect usernames, friends lists, and miscellaneous information from various pla
 Export data in both TXT and JSON formats
 
 
-Usage
+# Usage
 To use the tool, run the script with the following command:
 
 python script_name.py  [options]
@@ -26,16 +26,7 @@ Options:
 -o: Output file (can be .json or .txt)
 Example
 python discord_osint.py 123456789 -o output.txt -t "your_discord_token_here"
-Output
-The tool generates a structured output containing:
 
-Connected accounts
-Usernames
-Emails
-Friends
-Links
-Miscellaneous information
-The data can be exported in both TXT and JSON formats for further analysis.
 
-Disclaimer
+# Disclaimer
 This tool is for educational and research purposes only. Ensure you have the necessary permissions and comply with the terms of service of all platforms before using this tool. The authors are not responsible for any misuse or damage caused by this tool.
